@@ -1,0 +1,394 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,900;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid {
+    padding: 0;
+    margin: 0;
+}
+
+.row {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: #9fd9dd !important;
+}
+
+/* navbar */
+
+
+.navbar-brand {
+    font-size: 2em;
+    color: #666868 !important;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif !important;
+}
+
+.navbar-nav {
+    font-size: 1.5em;
+}
+
+.nav-link {
+    color: #9fd9dd;
+}
+
+.nav-link:hover {
+    border-bottom: 5px solid #9fd9dd;
+    color: #9fd9dd;
+}
+
+/* navbar-end */
+
+
+/* banner */
+
+
+header {
+    content: "";
+    background-color: #eeeeefdc;
+    position: absolute;
+    height: auto;
+    width: 100%;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    opacity: 0.9;
+}
+
+.background img {
+    margin-top: -65px;
+}
+
+.banner-text {
+    padding-left: 110px;
+    margin-top: 30%;
+}
+
+.banner-text h3 {
+    color: #9fd9dd !important;
+    font-size: 1.8em;
+    font-family: 'Playfair Display', serif !important;
+    line-height: 2;
+}
+
+.banner-text h1 {
+    color: #9fd9dd !important;
+    ;
+    font-size: 4em;
+    font-family: "Playfair Display", serif;
+    line-height: 1.5;
+}
+
+.banner-text p {
+    font-size: 1.5em;
+}
+
+.banner-text .btn {
+    background-color: #9fd9dd;
+    color: #fff;
+    font-size: 1.2em;
+    letter-spacing: 2px;
+    border-radius: 50px;
+    padding: 10px 25px;
+    font-weight: bold;
+    outline: none;
+}
+
+.banner-text .btn:hover {
+    background-color: #fff;
+    color: #9fd9dd;
+    border: 1px solid #9fd9dd;
+}
+
+
+
+
+/* banner-end */
+
+
+/* timetable */
+.tt-container {
+    margin-top: 50px !important;
+    padding-top: 50px;
+}
+
+.col .fa {
+    font-size: 4em;
+    color: #9fd9dd;
+}
+
+.col h2 {
+    font-family: 'Playfair Display', serif !important;
+    line-height: 2.5;
+}
+
+.col p {
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.blue-div {
+    height: 100%;
+    background-color: #9fd9dd;
+    padding: 80px 30px;
+    margin-top: -20px;
+}
+
+.blue-div h3 {
+    font-size: 1.5em;
+    font-family: 'Playfair Display', serif !important;
+}
+
+.blue-div h1 {
+    font-size: 3em;
+    font-family: 'Playfair Display', serif !important;
+}
+
+.blue-div p {
+    font-size: 1.1em;
+}
+
+
+.blue-div .btn {
+    background-color: #fff;
+    color: #9fd9dd;
+    font-size: 1em;
+    letter-spacing: 2px;
+    border-radius: 50px;
+    padding: 8px 15px;
+    font-weight: bold;
+    outline: none;
+}
+
+
+/* timetable-end */
+
+
+/* Health care  */
+.health-care-text {
+    padding: 80px 50px;
+}
+
+.health-care-text h3 {
+    font-size: 1.5em;
+    font-family: 'Playfair Display', serif !important;
+    padding-bottom: 10px;
+}
+
+.health-care-text h1 {
+    font-size: 3em;
+    font-family: 'Playfair Display', serif !important;
+    color: #9fd9dd;
+    padding-bottom: 10px;
+}
+
+.health-care-text p {
+    font-size: 1.3em;
+    padding-bottom: 10px;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+.health-care-text .btn {
+    background-color: #9fd9dd;
+    color: #fff;
+    font-size: 1.2em;
+    letter-spacing: 2px;
+    border-radius: 50px;
+    padding: 10px 25px;
+    font-weight: bold;
+    outline: none;
+}
+
+.health-care-text .btn:hover {
+    background-color: #fff;
+    color: #9fd9dd;
+    border: 3px solid #9fd9dd;
+}
+
+/* Health care-end */
+
+
+/* consultaion */
+.consultation-text {
+    padding: 225px 60px;
+}
+
+.consultation-text h1 {
+    font-size: 3.5em;
+    font-family: 'Playfair Display', serif !important;
+    color: #9fd9dd;
+    padding-bottom: 10px;
+}
+
+.consultation-text p {
+    font-size: 1.3em;
+}
+
+.consultation-text h3 {
+    font-size: 2em;
+    font-weight: bold;
+    font-family: 'Playfair Display', serif !important;
+    color: black;
+}
+
+/* consultaion-end */
+
+
+/* Our team  */
+.team-heading h1 {
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Playfair Display', serif !important;
+    color: black;
+    padding-bottom: 50px;
+}
+
+.our-team-img img {
+    height: 284px;
+    width: 284px;
+    margin: 0 auto;
+    border-radius: 50%;
+    object-position: 50% 0%;
+    background-position: 50% 0%;
+    object-fit: cover;
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.team-text h2 {
+    text-align: center;
+    font-size: 1.5em;
+    font-family: 'Playfair Display', serif !important;
+    padding-top: 50px;
+}
+
+.team-text p {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+/* Our team-end */
+
+
+/* slider  */
+.mySlides {
+    display: none;
+    height: auto;
+    width: 100%;
+
+}
+
+.slider {
+    min-height: 674px;
+    padding: 50px;
+    background-color: #9fd9dd;
+}
+
+.slider img {
+    height: 284px;
+    width: 284px;
+    margin: 0 auto;
+    border-radius: 50%;
+    object-position: 50% 0%;
+    background-position: 50% 0%;
+    object-fit: cover;
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.w3-content h1 {
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 3em !important;
+    font-family: 'Playfair Display', serif !important;
+}
+
+.mySlides p {
+    padding-top: 50px;
+    font-size: 1.3em;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.mySlides h3 {
+    font-size: 2em;
+    font-family: 'Playfair Display', serif !important;
+    text-align: center;
+}
+
+/* slider-end */
+
+
+/* footer-banner */
+.f-banner img {
+    height: 578px;
+    width: 100%;
+    object-fit: cover;
+    display: block;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+/* footer-banner-end */
+
+
+/* Appointment */
+.text-area h1 {
+    font-size: 3.5em;
+    font-family: 'Playfair Display', serif !important;
+}
+
+.form-control {
+    width: 100%;
+    margin: 10px 0;
+    border-color: gray;
+    border-radius: 0%;
+}
+
+textarea {
+    width: 100%;
+    margin: 10px 0;
+    border-color: gray;
+}
+
+.appointment .btn {
+    background-color: #9fd9dd;
+    color: black;
+    font-size: 1.2em;
+    border-radius: 50px;
+    padding: 10px 25px;
+    font-weight: bold;
+    outline: none;
+    margin: 0 auto;
+}
+
+.appointment .btn:hover {
+    background-color: #fff;
+    color: black;
+    border: 1px solid #9fd9dd;
+}
+
+/* Appointment-end */
+
+
+/* footer  */
+.footer {
+    height: 100px;
+    background-color: rgb(26, 24, 24);
+    color: #fff;
+    text-align: center;
+}
+
+/* footer-end */

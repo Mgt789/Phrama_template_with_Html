@@ -1,0 +1,309 @@
+@media (max-width: 1199px) {
+    header {
+        height: auto;
+        content: "";
+    }
+
+    .banner-text {
+        margin-top: 15%;
+        padding-left: 120px;
+    }
+
+    .banner-text h3 {
+        font-size: 1.5em;
+        line-height: 1.5;
+    }
+
+    .banner-text h1 {
+        font-size: 3em;
+    }
+
+    .banner-text p {
+        font-size: 1em;
+    }
+
+    .background img {
+        border-left: 0 !important;
+        border-right: 0 !important;
+        max-width: 80%;
+        margin-top: -65px;
+    }
+
+    .timetable-icon {
+        text-align: center;
+    }
+
+    .blue-div {
+        padding: 40px 30px;
+    }
+    .blue-div h1 {
+        font-size: 2em;
+    }
+    .blue-div h3 {
+        font-size: 1.2em;
+    }
+
+
+    .doctor img {
+        height: auto;
+        width: 100%;
+    }
+
+    .health-care-text {
+        padding: 20px 20px;
+    }
+
+    .health-care-text h1 {
+        font-size: 3em;
+    }
+
+    .health-care-text p {
+        font-size: 1em;
+        padding-bottom: 0px;
+    }
+
+    .consultation img {
+        height: auto;
+    }
+
+    .consultation-text {
+        padding: 68px 50px;
+    }
+
+    .consultation-text h1 {
+        font-size: 3em;
+        padding-bottom: 10px;
+    }
+
+    .consultation-text p {
+        font-size: 1em;
+    }
+
+    .w3-content h1 {
+        padding-bottom: 20px;
+    }
+
+    .slider {
+        min-height: auto;
+        padding: 20px;
+    }
+
+    .mySlides p {
+        padding-top: 20px;
+        font-size: 1em;
+    }
+
+    .our-team-img img {
+        height: 200px;
+        width: 200px;
+    }
+
+    .text-area h1 {
+        font-size: 2.5em;
+    }
+
+    .text-area {
+        padding: 0px;
+    }
+}
+
+@media (max-width: 991px) {
+    header {
+        height: auto;
+        content: "";
+    }
+
+    .banner-text {
+        margin-top: 0%;
+        padding-left: 60px;
+    }
+
+    .banner-text h3 {
+        font-size: 1.5em;
+        line-height: 1.5;
+    }
+
+    .banner-text h1 {
+        font-size: 3em;
+    }
+
+    .banner-text p {
+        font-size: 1em;
+    }
+
+    .background img {
+        border-left: 0 !important;
+        border-right: 0 !important;
+        max-width: 80%;
+        margin-top: 20px;
+    }
+
+    .timetable-icon {
+        text-align: center;
+    }
+
+    .blue-div {
+        margin-top: 0;
+    }
+
+
+    .doctor img {
+        height: 600px;
+        width: 100%;
+    }
+
+    .health-care-text {
+        padding: 20px 20px;
+    }
+
+    .health-care-text h1 {
+        font-size: 2em;
+    }
+
+    .health-care-text p {
+        font-size: 1em;
+        padding-bottom: 0px;
+    }
+
+    .consultation img {
+        height: 500px;
+    }
+
+    .consultation-text {
+        padding: 20px;
+    }
+
+    .consultation-text h1 {
+        font-size: 2em;
+        padding-bottom: 10px;
+    }
+
+    .consultation-text p {
+        font-size: 1em;
+    }
+
+    .w3-content h1 {
+        padding-bottom: 20px;
+    }
+
+    .slider {
+        min-height: auto;
+        padding: 20px;
+    }
+
+    .mySlides p {
+        padding-top: 20px;
+        font-size: 1em;
+    }
+
+    .our-team-img img {
+        height: 200px;
+        width: 200px;
+    }
+
+    .text-area h1 {
+        font-size: 2.5em;
+    }
+
+    .text-area {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    header {
+        height: auto;
+        content: "";
+    }
+
+    .banner-text {
+        padding: 20px;
+        margin-top: 0%;
+    }
+
+    .banner-text h3 {
+        font-size: 1.5em;
+        line-height: 1.5;
+    }
+
+    .banner-text h1 {
+        font-size: 3em;
+    }
+
+    .banner-text p {
+        font-size: 1em;
+    }
+
+    .banner-text .btn {
+        font-size: 1em;
+    }
+
+    .background img {
+        border-left: 0 !important;
+        border-right: 0 !important;
+        max-width: 80%;
+        margin-top: 20px;
+    }
+
+    .timetable-icon {
+        text-align: center;
+    }
+
+    .doctor img {
+        height: auto;
+        width: 100%;
+    }
+
+    .health-care-text {
+        padding: 50px 20px;
+    }
+
+    .health-care-text h1 {
+        font-size: 2em;
+    }
+
+    .health-care-text p {
+        font-size: 1.2em;
+        padding-bottom: 5px;
+    }
+
+    .consultation img {
+        height: auto;
+    }
+
+    .consultation-text {
+        padding: 20px;
+    }
+
+    .consultation-text h1 {
+        font-size: 2em;
+        padding-bottom: 10px;
+    }
+
+    .w3-content h1 {
+        font-size: 2.5em !important;
+        padding-bottom: 20px;
+    }
+
+    .mySlides p {
+        width: 100% !important;
+        font-size: 1em;
+        padding-top: 20px;
+    }
+
+    .our-team-img img {
+        height: 284px;
+        width: 284px;
+    }
+
+    .text-area h1 {
+        font-size: 2.5em;
+        text-align: center;
+    }
+    .form-control-lg{
+        font-size: 1em;
+    }
+
+}
+
+@media (max-width: 575px) {}
